@@ -4,18 +4,18 @@
 
   **Absolute's Asset Downloader** is an TypeScript tool used to fetch and download assets from [Pokemon Showdown](https://play.pokemonshowdown.com/).
 
-  <img alt="Github Issues" src="https://img.shields.io/github/issues/Toxocious/Absolute-Battle-Server?style=for-the-badge&logo=appveyor" />
-  <img alt="Github Forks" src="https://img.shields.io/github/forks/Toxocious/Absolute-Battle-Server?style=for-the-badge&logo=appveyor" />
-  <img alt="Github Stars" src="https://img.shields.io/github/stars/Toxocious/Absolute-Battle-Server?style=for-the-badge&logo=appveyor" />
+  <img alt="Github Issues" src="https://img.shields.io/github/issues/PokemonAbsolute/Absolute-Tools?style=for-the-badge&logo=appveyor" />
+  <img alt="Github Forks" src="https://img.shields.io/github/forks/PokemonAbsolute/Absolute-Tools?style=for-the-badge&logo=appveyor" />
+  <img alt="Github Stars" src="https://img.shields.io/github/stars/PokemonAbsolute/Absolute-Tools?style=for-the-badge&logo=appveyor" />
   <br />
 
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Toxocious/Absolute-Battle-Server?style=for-the-badge">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/PokemonAbsolute/Absolute-Tools?style=for-the-badge">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FToxocious%2FAbsolute-Chat">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FToxocious%2FAbsolute-Chat&label=VIEWS&countColor=%234a618f" />
   </a>
   <br />
 
-  <img alt="License" src="https://img.shields.io/github/license/Toxocious/Absolute-Battle-Server?style=for-the-badge&logo=appveyor" />
+  <img alt="License" src="https://img.shields.io/github/license/PokemonAbsolute/Absolute-Tools?style=for-the-badge&logo=appveyor" />
 
   Come join our comfy community over on Discord!
 
